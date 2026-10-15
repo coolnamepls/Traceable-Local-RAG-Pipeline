@@ -1,0 +1,16 @@
+# Core ML
+torch
+torchvision
+transformers>=4.51.0
+accelerate
+bitsandbytes>=0.46.1
+
+# Embeddings and reranking
+sentence-transformers>=5.4.0
+
+# Document parsing
+docling
+Pillow
+
+# Vector database
+qdrant-client
